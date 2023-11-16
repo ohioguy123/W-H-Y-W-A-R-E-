@@ -11,7 +11,7 @@ def print_green(text):
     print("\033[92m" + text + "\033[0m")
 
 def unblocked_nsfw_website():
-    print_green('pornhub.com')
+    print_green('https://rule34.xxx/index.php?page=post&s=list&tags=komi-san_wa_komyushou_desu')
 
 def government_leaks():
     print_blue('http://intelrepository.com/?i=1')
@@ -32,7 +32,7 @@ def destroy_psycho_clubs():
     print_blue('http://destroy2wnzdx7oiqwsry4ixhwkpype5b2rcfr6fxdstjwlfiwnwcxid.onion/')
 
 def nsfw_website():
-    print_blue('https://rule34.xxx/index.php?page=post&s=list&tags=komi-san_wa_komyushou_desu')
+    print_blue('pornhub.com')
 
 def dog_sex():
     print_blue('http://dogsexwnsitn2dpfor7l65vdwgaxssbszuhifni7qbt4gxnow2e3ezqd.onion/')
