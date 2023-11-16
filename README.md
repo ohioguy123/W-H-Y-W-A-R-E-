@@ -21,7 +21,7 @@ pkg install python3
 ### Usage Tool
 ```
 git clone https://github.com/ohioguy123/W-H-Y-W-A-R-E-.git
-cd W-H-Y-W-A-R-E
+cd W-H-Y-W-A-R-E-
 pip3 install -r requirements.txt
 python3 WhyWare.py
 ```
